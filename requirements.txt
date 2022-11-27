@@ -1,0 +1,6 @@
+beautifulsoup4
+schedule
+pytz
+requests
+tabulate
+discord
